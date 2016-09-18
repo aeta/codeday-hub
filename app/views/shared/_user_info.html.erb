@@ -11,7 +11,8 @@
   <% if @user.about.present? %>
     <h5>
       <%= fa_icon 'book' %>
-      <%= @user.about %>
+      <br>
+      <%= simple_format @user.about %>
     </h5>
   <% end %>
 
