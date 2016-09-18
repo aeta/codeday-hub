@@ -1,0 +1,3 @@
+http://shspost.herokuapp.com/
+http://shspost.herokuapp.com/events/new
+http://shspost.herokuapp.com/find_friends
