@@ -39,3 +39,4 @@ rails s
 This program is licensed under the [MIT Lisense](https://github.com/aeta/codeday-hub/blob/master/LICENSE.txt)
 
 ## [Codeday](https://codeday.org/)
+## [Student RND](https://srnd.org/)
